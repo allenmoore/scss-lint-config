@@ -21,6 +21,9 @@ linters:
   ColorVariable:
     enabled: true
 
+  Comment:
+    enabled: false
+
   DebugStatement:
     enabled: true
 
