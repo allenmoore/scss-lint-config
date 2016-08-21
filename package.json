@@ -1,0 +1,33 @@
+{
+  "name": "scsslint-config-allenmoore",
+  "version": "1.0.0",
+  "description": "A shareable SCSSLint configuration",
+  "main": ".scss-lint.yml",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenmoore/scss-lint-config.git"
+  },
+  "keywords": [
+    "scsslint",
+    "scsslintconfig",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "linter",
+    "validate",
+    "code style",
+    "standard",
+    "strict",
+    "check",
+    "checker",
+    "verify",
+    "enforce"
+  ],
+  "author": "Allen Moore <am@allenmoore.me> (https://allenmoore.me)",
+  "license": "GPL-2.0+",
+  "bugs": {
+    "url": "https://github.com/allenmoore/scss-lint-config/issues"
+  },
+  "homepage": "https://github.com/allenmoore/scss-lint-config#readme"
+}
